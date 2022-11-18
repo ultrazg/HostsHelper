@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
 [assembly: AssemblyTitle("HostsHelper")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("系统 hosts 文件管理工具")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("HP")]
+[assembly: AssemblyCompany("clearw1ne")]
 [assembly: AssemblyProduct("HostsHelper")]
-[assembly: AssemblyCopyright("Copyright © HP 2022")]
+[assembly: AssemblyCopyright("Copyright © clearw1ne 2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
